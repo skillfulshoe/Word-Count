@@ -1,0 +1,9 @@
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\bin\Debug\Word Counter.exe.config
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\bin\Debug\Word Counter.exe
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\bin\Debug\Word Counter.pdb
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.csprojResolveAssemblyReference.cache
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word_Counter.Form1.resources
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word_Counter.Properties.Resources.resources
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.csproj.GenerateResource.Cache
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.exe
+c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.pdb

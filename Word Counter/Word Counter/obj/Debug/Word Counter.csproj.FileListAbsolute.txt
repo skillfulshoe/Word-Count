@@ -7,3 +7,12 @@ c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\ob
 c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.csproj.GenerateResource.Cache
 c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.exe
 c:\users\phil\documents\visual studio 2015\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.pdb
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\bin\Debug\Word Counter.exe.config
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\obj\Debug\Word Counter.exe
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\obj\Debug\Word Counter.pdb
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\bin\Debug\Word Counter.exe
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\bin\Debug\Word Counter.pdb
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\obj\Debug\Word Counter.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\obj\Debug\Word_Counter.Form1.resources
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\obj\Debug\Word_Counter.Properties.Resources.resources
+C:\Users\Phil\Source\Repos\Word-Count\Word Counter\Word Counter\obj\Debug\Word Counter.csproj.GenerateResource.Cache
